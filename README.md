@@ -2,7 +2,7 @@
 
 ---
 
-![Lloyds Bank Logo](https://upload.wikimedia.org/wikipedia/commons/9/9c/Lloyds_Banking_Group_Plc.png)
+![Lloyds Bank Logo](Llyods_logo.png)
 
 **Lloyds Bank Stock Analysis Dashboard** is a financial analytics project built using **Python** and **Streamlit** that provides real-time stock analysis for **LLOY.L (Lloyds Banking Group)**.
 
